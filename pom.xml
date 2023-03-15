@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.location</groupId>
-	<artifactId>locationweb22</artifactId>
+	<artifactId>locationweb222</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>locationweb22</name>
 	<description>location project</description>
